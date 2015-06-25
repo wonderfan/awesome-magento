@@ -17,3 +17,5 @@ The awesome materials and curated list of  Magento
 - [featured-products](https://github.com/buric/Inchoo_FeaturedProducts) - create the featured products block
 - [group-catalog](https://github.com/Vinai/groupscatalog2) - filter the categories by the customer group
 - [enhanced-grid](https://github.com/jayelkaake/enhancedgrid) - The grid is enhanced
+- [performance-tweaks](https://github.com/quafzi/magento-performance-tweaks) - performance tweaks
+- [cart-marketplace](https://github.com/syamvilakudy/Cart-Mart) - Magento Store to Multivendor Marketplace
