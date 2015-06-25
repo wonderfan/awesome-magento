@@ -6,3 +6,4 @@ The awesome materials and curated list of  Magento
 - [magento-mirror](https://github.com/OpenMage/magento-mirror) - Magento download mirror
 - [waterlee](https://github.com/zeljkoprsa/waterlee-boilerplate) - responsive theme boilerplate
 - [magento-lite](https://github.com/colinmollenhour/magento-lite) - Magento CE stripped down to a general-purpose framework.
+- [magento-debug](https://github.com/madalinoprea/magneto-debug) - Magento debug
