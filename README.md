@@ -14,3 +14,4 @@ The awesome materials and curated list of  Magento
 - [cookbook-magento](https://github.com/yevgenko/cookbook-magento) - install Magento with Chef
 - [magento-shell-tools](https://github.com/ticean/magento-shell-tools) - Magento shell tools
 - [module-creator](https://github.com/tzyganu/UMC1.9) - Ultimate Module Creator for Magento
+- [featured-products](https://github.com/buric/Inchoo_FeaturedProducts) - create the featured products block
