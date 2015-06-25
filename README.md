@@ -12,3 +12,4 @@ The awesome materials and curated list of  Magento
 - [magento-admin-theme](https://github.com/jreinke/magento-admin-theme) - Magento admin theme
 - [odoo](https://github.com/OCA/connector-magento) - Connect Odoo with Magento
 - [cookbook-magento](https://github.com/yevgenko/cookbook-magento) - install Magento with Chef
+- [magento-shell-tools](https://github.com/ticean/magento-shell-tools) - Magento shell tools
