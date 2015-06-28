@@ -19,3 +19,10 @@ The awesome materials and curated list of  Magento
 - [enhanced-grid](https://github.com/jayelkaake/enhancedgrid) - The grid is enhanced
 - [performance-tweaks](https://github.com/quafzi/magento-performance-tweaks) - performance tweaks
 - [cart-marketplace](https://github.com/syamvilakudy/Cart-Mart) - Magento Store to Multivendor Marketplace
+
+
+## Good themes
+- [argentotheme](http://argentotheme.com)
+
+## Good modules
+- [argento-modules-list](http://argentotheme.com/argento-modules-list/)
