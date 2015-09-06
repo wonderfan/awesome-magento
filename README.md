@@ -19,6 +19,8 @@ The awesome materials and curated list of  Magento
 - [enhanced-grid](https://github.com/jayelkaake/enhancedgrid) - The grid is enhanced
 - [performance-tweaks](https://github.com/quafzi/magento-performance-tweaks) - performance tweaks
 - [cart-marketplace](https://github.com/syamvilakudy/Cart-Mart) - Magento Store to Multivendor Marketplace
+- [ful page cache](https://github.com/GordonLesti/Lesti_Fpc)
+- [fast import](https://github.com/avstudnitz/AvS_FastSimpleImport)
 
 
 ## Good themes
@@ -29,3 +31,4 @@ The awesome materials and curated list of  Magento
 
 
 ## Create by myself
+- [wonderfan](http://www.magentocommerce.com/magento-connect/developer/wonder)
